@@ -144,6 +144,4 @@ A web interface built using **Streamlit** or **Flask** to:
 This project is **proprietary** and currently used for **internal purposes at Nokia**.
 License to be defined.
 
----
 
-Let me know if you'd like this saved as a `.md` file or want badges (build, license, etc.) added at the top.
